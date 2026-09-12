@@ -47,7 +47,7 @@ Sou desenvolvedor Backend com atuação como Techlead, focado em construir siste
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JViniciusF&theme=tokyo-night&hide_border=true" alt="Activity Graph"/>
+  <img src="https://ghchart.rshah.org/7aa2f7/JViniciusF" alt="GitHub Contribution Chart"/>
 </p>
 
 ---
