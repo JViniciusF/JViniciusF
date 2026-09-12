@@ -45,6 +45,7 @@ Sou desenvolvedor Backend com atuação como Techlead, focado em construir siste
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=JViniciusF&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
 </p>
+
 ---
 
 ### 📫 Contato
